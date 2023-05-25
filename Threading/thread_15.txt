@@ -1,0 +1,7 @@
+Built in function in Thread are:-
+
+1. is_alive():- checks thread is running or not
+2. main_thread():- Retunrs main thread details
+3. active_count():- Number of running threads
+4. enumerate():- List of all running threads
+5. get_native_id()- Know native id of thread
